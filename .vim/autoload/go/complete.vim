@@ -1,0 +1,1 @@
+/home/rockpile/go/go/misc/vim/autoload/go/complete.vim

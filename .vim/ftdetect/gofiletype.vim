@@ -1,0 +1,1 @@
+/home/rockpile/go/go/misc/vim/ftdetect/gofiletype.vim
